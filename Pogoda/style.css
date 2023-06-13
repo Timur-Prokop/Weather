@@ -1,0 +1,21 @@
+.back-pogoda{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.pogoda{
+    border: 2px blue solid;
+    padding: 10px;
+    height: 500px;
+    width: 400px;
+    background-image: url(Circle1.jpg);
+}
+p{
+    color: white;
+    font-size: 40px;
+}
+.input{
+    width: 90%;
+    height: 50px;
+    font-size: 40px;
+}
